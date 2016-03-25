@@ -124,6 +124,7 @@
         "script/cmtool.sh",
         "script/add-network-interface-detection.sh",
         "script/autologin.sh",
+        "script/defaults.sh",
         "script/update.sh",
         "script/minimize.sh"
       ]
